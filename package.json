@@ -1,0 +1,26 @@
+{
+  "name": "search-replace",
+  "version": "0.0.1",
+  "description": "A search and replace utility for strings in JSON structures.",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hscheckenbacher/search-replace.git"
+  },
+  "keywords": [
+    "json",
+    "search",
+    "replace",
+    "string",
+    "regex"
+  ],
+  "author": "Harald Scheckenbacher",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hscheckenbacher/search-replace/issues"
+  },
+  "homepage": "https://github.com/hscheckenbacher/search-replace"
+}
